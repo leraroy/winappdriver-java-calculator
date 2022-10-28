@@ -1,6 +1,11 @@
 import io.appium.java_client.windows.WindowsDriver;
+import io.qameta.allure.Attachment;
+import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.BeforeClass;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
+import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import pages.BasePage;
 import pages.Standard;
