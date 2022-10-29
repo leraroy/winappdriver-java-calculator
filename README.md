@@ -6,8 +6,8 @@ Tests with winappdriver and allure framework for Windows calculator
 
 ### Install software and check out the project
 
-- Download and install [Node.JS](https://nodejs.org) 
-- Install Visual Studio Code
+- Download and install JAVA
+- Install [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 - Clone and checkout the github project
 - Go to the terminal and execute "mvn clean test" inside the checked out folder
 
